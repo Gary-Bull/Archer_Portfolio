@@ -13,3 +13,6 @@
   	font-size: 4rem;
   	color: #EA1C2c;
   }
+  .card {
+      border: 0;
+  }
